@@ -12,4 +12,8 @@
     ###Quiz_BigIdea1_Part8
     ###Quiz_BigIdea1_Part9
     ###Quiz_BigIdea1_Part10
-
+  ## Assignments_3
+    ###Quiz_BigIdea1_Part11
+    ###Quiz_BigIdea1_Part12
+    ###Quiz_BigIdea1_Part13
+    ###Quiz_BigIdea1_Part14
