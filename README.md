@@ -17,3 +17,7 @@
     ###Quiz_BigIdea1_Part12
     ###Quiz_BigIdea1_Part13
     ###Quiz_BigIdea1_Part14
+  ## Assignments_4
+    ###Quiz_BigIdea1_Part15
+    ###Quiz_BigIdea1_Part16
+    ###Exam_U1
